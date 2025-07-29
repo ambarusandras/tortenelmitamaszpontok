@@ -1,0 +1,1 @@
+var json_EltntvastblkMthJnoslersaalapjnKolkzI_6 = {"type":"FeatureCollection","name":"EltntvastblkMthJnoslersaalapjnKolkzI_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":"30?","Easting":23.60617,"Northing":46.76229},"geometry":{"type":"Point","coordinates":[23.6061686,46.7622902]}}]}
