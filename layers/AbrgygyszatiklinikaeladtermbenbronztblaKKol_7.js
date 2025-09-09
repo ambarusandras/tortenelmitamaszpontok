@@ -1,1 +1,0 @@
-var json_AbrgygyszatiklinikaeladtermbenbronztblaKKol_7 = {"type":"FeatureCollection","name":"AbrgygyszatiklinikaeladtermbenbronztblaKKol_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"ID":null,"Easting":23.58308,"Northing":46.76507},"geometry":{"type":"Point","coordinates":[23.58308384,46.76507261]}}]}
